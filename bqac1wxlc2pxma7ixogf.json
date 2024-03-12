@@ -1,0 +1,36 @@
+[
+{"type":"header","version":"5.2.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"bqac1wxlc2pxma7ixogf"},
+{"type":"table","name":"estudiantes","database":"bqac1wxlc2pxma7ixogf","data":
+[
+{"id":"1","nombre":"Ana","sexo":"Mujer","telefono":"123-456-7890"},
+{"id":"2","nombre":"Carlos","sexo":"Hombre","telefono":"987-654-3210"},
+{"id":"3","nombre":"Jazmyn Denesik DVM","sexo":"Mujer","telefono":"123-456-7890"},
+{"id":"4","nombre":"Ursula Connelly","sexo":"Hombre","telefono":"123-8488"},
+{"id":"5","nombre":"Thora Schmidt MD","sexo":"Mujer","telefono":"123-0698"},
+{"id":"6","nombre":"Kacie Gutmann","sexo":"Hombre","telefono":"9584635-00"},
+{"id":"7","nombre":"Beau King","sexo":"Mujer","telefono":"76487487"},
+{"id":"8","nombre":"Cornelius Langosh","sexo":"Hombre","telefono":"1238547"},
+{"id":"9","nombre":"Rachael Ortiz ","sexo":"Hombre","telefono":"89423847"},
+{"id":"10","nombre":"Juana McLaughlin","sexo":"Mujer","telefono":"289457194"},
+{"id":"11","nombre":"Darlene Mertz","sexo":"Mujer","telefono":"4529825"},
+{"id":"12","nombre":"Dr.Skiles","sexo":"Hombre","telefono":"146784167"}
+]
+}
+,{"type":"table","name":"materias","database":"bqac1wxlc2pxma7ixogf","data":
+[
+{"id":"1","nombre":"Matemáticas"},
+{"id":"2","nombre":"Historia"},
+{"id":"3","nombre":"desarrollo software"},
+{"id":"4","nombre":"ingles"},
+{"id":"5","nombre":"fisica"},
+{"id":"6","nombre":"Quimica"}
+]
+}
+,{"type":"table","name":"notas","database":"bqac1wxlc2pxma7ixogf","data":
+[
+{"id":"1","estudiante_id":"1","materia_id":"1","nota":"4.50"},
+{"id":"2","estudiante_id":"1","materia_id":"2","nota":"3.80"}
+]
+}
+]
